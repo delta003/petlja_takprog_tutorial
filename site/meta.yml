@@ -1,0 +1,16 @@
+dirs:
+  - path: 1_osnovno
+    name: Osnovni koncepti
+    section: 1
+  - path: 2_podesavanja
+    name: Podešavanja
+    section: 1
+  - path: 3_registracije
+    name: Registracije
+    section: 1
+  - path: 4_kontrolna_tabla
+    name: Kontrolna tabla
+    section: 1
+  - path: 5_pomoc
+    name: Pomoć i problemi
+    section: 2

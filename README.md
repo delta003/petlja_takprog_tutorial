@@ -1,1 +1,3 @@
-# takprog_tutorial
+# Takprog Tutorial
+
+http://takprog.petlja.org/tutorial

@@ -1,0 +1,23 @@
+rounds:
+  - name: IOI
+    competitions:
+      - name: 2017
+        links:
+          - title: Zvanična stranica
+            url: http://ioi2017.org/
+          - title: Rezultati
+            url: http://scoreboard.ioi2017.org/Ranking.html
+      - name: 2016
+        links:
+          - title: Zvanična stranica
+            url: http://ioi2016.ru/
+  - name: JBOI
+    competitions:
+      - name: 2016
+        links:
+          - title: Zvanična stranica
+            url: http://jboi2016.cs.org.mk/
+          - title: Zadaci
+            url: http://jboi2016.cs.org.mk/content/tasks
+          - title: Rezultati
+            url: http://jboi2016.cs.org.mk/content/results

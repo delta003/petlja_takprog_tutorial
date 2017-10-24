@@ -1,0 +1,35 @@
+awards:
+  - competition: IOI Top 3 # Naziv u navigaciji
+    contestants:
+      - user: Marko Stanković # Ime takmičara
+        awards:
+          - type: silver-medal # Referenca na bedž
+          - type: silver-medal
+          - type: silver-medal
+      - user: Boris Grubić
+        username: boris4 # Opcioni username koji povezuje takmičara sa korisnikom Petlje
+        awards:
+          - type: silver-medal
+          - type: silver-medal
+          - type: bronze-medal
+          - type: bronze-medal
+      - user: Dimitrije Erdeljan
+        username: dd
+        awards:
+          - type: silver-medal
+          - type: silver-medal
+          - type: bronze-medal
+  - competition: JBOI 2016
+    contestants:
+      - user: David Milenković
+        awards:
+          - type: bronze-medal
+            url: http://jboi2016.cs.org.mk/ # Opcioni link koji se postavlja na bedž
+      - user: Marko Šišović
+        awards:
+          - type: bronze-medal
+            url: http://jboi2016.cs.org.mk/
+      - user: Momčilo Tošić
+        awards:
+          - type: bronze-medal
+            url: http://jboi2016.cs.org.mk/
