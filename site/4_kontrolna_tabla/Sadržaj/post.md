@@ -6,7 +6,7 @@ Izmene u vašem repou se ne prikazuju odmah na vašem sajtu tako da možete prav
 izmene u više commit-ova. Potrebno je da odete u deo Sadržaj kontrolne table i
 ažurirate određeni folder.
 
-Automatsko ažuriranje sajte na osnovu promena u GitHub repo-u biće podržano u
+Automatsko ažuriranje sajta na osnovu promena u GitHub repo-u biće podržano u
 budućnosti kao opciono.
 
 Takodje, ovde možete pinovati odredjeni post. "Dobrodošli!" post u tutorijalu je

@@ -14,7 +14,9 @@ Funkcionalnosti:
 - Registraciju možete zaštititi šifrom, a onda šifru distribuirati do korisnika
 koje želite pouzdanim kanalima. Primer upotrebe šifre je registracija profesora.
 - Korisnici mogu birati region, opštinu, školu i razred. Ovi parametri u
-registraciji omogućavaju recimo filtriranje rezultata.
+registraciji omogućavaju recimo filtriranje rezultata. Regioni, opštine i škole
+dostupni su sa teritorije Srbije sa [sajta Ministartva](http://opendata.mpn.gov.rs/),
+a na Takprog-u ih možete pregledati na [ovde](http://takprog.petlja.org/data/places).
 - Korisnici koji se registruju mogu upisati mentora ili poslati vam poruku ako im
 to omogućite. Ova polja su kreirana na osnovu dosadašnje potrebe i mogu biti
 proširena na zahtev.
