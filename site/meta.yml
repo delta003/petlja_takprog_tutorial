@@ -12,5 +12,5 @@ dirs:
     name: Kontrolna tabla
     section: 1
   - path: 5_pomoc
-    name: Pomoć i problemi
+    name: Pomoć, problemi, kontakt
     section: 2
