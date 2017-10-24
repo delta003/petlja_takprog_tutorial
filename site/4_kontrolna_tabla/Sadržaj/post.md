@@ -8,3 +8,6 @@ ažurirate određeni folder.
 
 Automatsko ažuriranje sajte na osnovu promena u GitHub repo-u biće podržano u
 budućnosti kao opciono.
+
+Takodje, ovde možete pinovati odredjeni post. "Dobrodošli!" post u tutorijalu je
+pinovan.
